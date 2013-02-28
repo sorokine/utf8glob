@@ -1,4 +1,8 @@
-utf8glob
+Do Java 7 Globs Work With UTF-8 Characters?
 ========
 
-Do Java 7 globs work with UTF-8 characters?
+Usage
+-----
+
+	mvn install
+	java -jar target/utf8glob-0.0.1-SNAPSHOT.jar
